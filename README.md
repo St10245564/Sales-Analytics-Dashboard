@@ -1,8 +1,6 @@
 # 📊 Sales Analytics Dashboard (Excel Project)
 
-![Dashboard Preview](Images/dashboard_preview.png)
-
----
+<img width="986" height="551" alt="1" src="https://github.com/user-attachments/assets/579dcb54-99a0-4074-838c-68f983d5666f" />
 
 ## 🔍 Project Overview
 
